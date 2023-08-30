@@ -1,0 +1,65 @@
+.body {
+    padding: 0px;
+    margin: 0px;
+}
+.gradient {
+    background-color: red;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 0px 66px 4px rgba(0,0,0,0.72);
+-moz-box-shadow: 0px 0px 66px 4px rgba(0,0,0,0.72);
+box-shadow: 0px 0px 66px 4px rgba(0,0,0,0.72);
+}
+.clearfix {
+    clear: both;
+}
+.container {
+    width: 1000px;
+   /* margin-left: auto;
+    margin-right: auto; */
+    margin: 50px auto 0;
+}
+.leftbar {
+    width: 200px;
+    float: left;
+}
+.content {
+    width: 800px;
+    float: left;
+}
+
+.box{
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+   /* margin-right: 10px;
+margin-top: 10px;
+margin-left: 10px; 
+margin-bottom:    10px;*/
+margin-right: 10px;
+float: left;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-green{
+    background-color: green;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+.card {
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right:  3%;
+    background-color: darkgrey;
+    border-radius:10px ;
+}
+ 
