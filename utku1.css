@@ -1,114 +1,113 @@
-.body{
-    padding: 0;
-    margin: 0;
+.body {
+  padding: 0;
+  margin: 0;
 }
-h1{
-
-    padding: 0px;
-    margin: 0;
-   
+h1 {
+  padding: 0px;
+  margin: 0;
 }
 .container {
-padding: 0;
-margin-left: auto;
-margin-right: auto;
+  width: 1000px;
+  /*margin-left: auto;
+margin-right: auto;*/
+  /* justify-content: center;  Yatayda ortala 
+    align-items: center;  display: flex;   Dikeyde ortala */
 
-background-color: white;
-
+  background-color: white;
 }
-.boyut{
-    width: 1000px;
+.boyut {
+  width: 1000px;
 }
 .box {
-    padding-bottom: 55;
-    margin-top: 15;
-    height: 45;
+  padding-bottom: 55;
+  margin-top: 15;
+  height: 45;
 }
-.color{
-    padding: 50px;
-    background-color: #FAEBD7;
+.color {
+  padding: 50px;
+  background-color: #faebd7;
 }
-.btn{
-padding: 0;
+.btn {
+  padding: 0;
 
-float: none;
-content: left;
+  float: none;
+  content: left;
 }
-.renk{
-    color: red;
+.renk {
+  color: red;
 }
-.renk2{
-    color: green;
+.renk2 {
+  color: green;
 }
-.orta{
-    background-color: #FAEBD7;
-    color: none;
+.orta {
+  background-color: #faebd7;
+  color: none;
 }
-.kutu{
-    width: 100px;
-    height: 130px;
-    background-color: aqua;
-padding: 10px;
-margin-right: 10px;
-float: left;
-
+.kutu {
+  width: 100px;
+  height: 130px;
+  background-color: aqua;
+  padding: 10px;
+  margin-right: 10px;
+  float: left;
 }
-.kutu2{
-    width: 300;
-    height: 300px;
-    background-color: aqua;
-      
+.kutu2 {
+  width: 300;
+  height: 300px;
+  background-color: aqua;
 }
 .leftbar {
-    
-    float: left;
-    
-    background-color: aqua;
-    
-   
-    
-    
+  background-color: aqua;
 }
 .content {
-width: 150px;
-padding: 10px;
-    float: left;
-    height: 120px;
-  margin-left: 830px;
-margin-top: 5px;
-margin-right: 5px;
+  width: 150px;
+  padding: 10px;
+  float: left;
+  height: 120px;
+  margin-top: 5px;
+  margin-right: 5px;
 }
-.text{
-    height: 13px;
-    margin-bottom: 15px;    
-   
+.text {
+  height: 13px;
+  margin-bottom: 15px;
 }
-.content2{
-    width: 100px;
-    float: left;
-    height: 100px;
-    margin-left: 1030px;
-    margin-bottom: 500px;
-    
-    
+.content2 {
+  width: 100px;
+  float: left;
+  height: 100px;
+  margin-left: 1030px;
+  margin-bottom: 500px;
+}
+.deneme {
+  width: 120px;
+  height: 140px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.stil {
+  width: 120px;
+  height: 140px;
+  margin-top: 5px;
+}
+.pindirme {
+  width: 10px;
+  height: 5px;
+  float: left;
+  background-color: green;
+  color: blue;
+}
+.ddd {
+  background-color: pink;
+  margin: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  
 
 }
-.deneme{
-    width: 120px;
-    height: 140px;
-    margin-left: 5px;
-margin-top: 5px;
-
-
-}
-.stil{
-    width: 120px;
-    height: 140px;
-    margin-left: 5px;
-margin-top: 5px;
-}
-.pindirme{
-    
-    
-
+.ddddd {
+  margin: 10px;
+  background-color: yellow;
+  padding: 10px;
 }
